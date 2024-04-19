@@ -1,1 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBorgez)](https://github.com/anuraghazra/github-readme-stats)
+
+[Currículo (Português)](CurriculoMatheusBorges.pdf)
+
+
+[Resume (English)](MatheusBorgesResume.pdf)
