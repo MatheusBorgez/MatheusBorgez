@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MatheusBorgez&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MatheusBorgez&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=MatheusBorgez&show_icons=true&include_all_commits=true&theme=dracula)
 
 [Currículo (Português)](CurriculoMatheusBorges.pdf)
 
